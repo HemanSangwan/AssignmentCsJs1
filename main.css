@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#speakButton {
+    background-color: #008CBA;
+}
+
+#speakButton:hover {
+    background-color: #005f78;
+}
+
+#nounButton {
+    background-color: #FF5733;
+}
+
+#nounButton:hover {
+    background-color: #d14727;
+}
+
+#verbButton {
+    background-color: #FFC300;
+}
+
+#verbButton:hover {
+    background-color: #d19f00;
+}
+
+#adjectiveButton {
+    background-color: #C70039;
+}
+
+#adjectiveButton:hover {
+    background-color: #a1062e;
+}
+
+#nounButton2 {
+    background-color: #900C3F;
+}
+
+#nounButton2:hover {
+    background-color: #750a34;
+}
+
+#placeButton {
+    background-color: #5B2C6F;
+}
+
+#placeButton:hover {
+    background-color: #492256;
+}
+
+#buttons {
+    margin-top: 20px;
+}
